@@ -1,8 +1,8 @@
-title: Moonwalk
+title: Abhi's Portfolio
 author: Abhinav Saxena
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  Welcome to my portfolio showcasing a diverse range of projects and achievements across various domains. As an Electrical Engineering graduate student specializing in Applied Artificial Intelligence at the University of Ottawa, my focus lies in leveraging Python programming and Machine Learning techniques to solve real-world problems. Through a blend of theoretical knowledge and hands-on experience, I've developed expertise in areas such as Machine Learning, Computer Vision, Robotics, and Data Science. Explore my projects, ranging from author and genre text classification to machine learning-based diagnostic tools for Autism Spectrum Disorder, which demonstrate my analytical skills and innovative approach to problem-solving.
 
 permalink: /:slug
 
