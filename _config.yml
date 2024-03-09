@@ -5,6 +5,11 @@ description: > # description of the site (multiple lines allowed)
   Hello I am Abhi. As an Electrical and Computer Engineering graduate student specializing in Applied Artificial Intelligence at uOttawa, my focus lies in leveraging Python programming and Machine Learning techniques to solve real-world problems. 
   I've developed expertise in areas such as Machine Learning, Computer Vision, Robotics, and Data Science. 
   Explore my projects focusing on ML and AI.
+---
+
+<!-- Your markdown content here -->
+
+![Background Picture of Portfolio](images/head_img.jpg)
 
 permalink: /:slug
 
