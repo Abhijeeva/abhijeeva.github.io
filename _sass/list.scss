@@ -16,6 +16,12 @@ ul.horizontal-list {
   }
 
 }
+:root {
+  --main-text-color: white; /* Set your desired main text color here */
+  --bg-secondary: #f0f0f0;
+  --text: #000;
+  --links: blue;
+}
 
 .card {
   padding: 1em;
@@ -28,6 +34,7 @@ ul.horizontal-list {
   background-color: var(--bg-secondary);
   margin-bottom: 0.8em;
   border-radius: 0.5em;
+  color: var(--main-text-color);
 
   .header {
     color: var(--links);
