@@ -6,65 +6,41 @@ navbar_entries:
     url: blog
 
   - title: website
-    url: https://www.abhinav.co
+    url: https://abhijeeva.github.io/
 
 project_entries:
-  - title: Project 1
+  - title: Hand Gesture Controlled Laptop
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Google Chrome was interfaced with Python, controlled using hand gestures.
 
-  - title: Project 2
+  - title: Face Mask Detection
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: Developed a Face Mask Detection system in Python using TensorFlow.
 
-  - title: Project 3
+  - title: Automated Fabric Defect Detector
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: Using Raspberry Pi, a webcam and deep learning algorithms in python
 
-  - title: Project 4
+  - title: Machine Learning-Based Diagnostic Tool for Autism Spectrum Disorder
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
 
-  - title: Project 5
+  - title: Author & Genre Text Classification with NLP
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
+    desc: classify text by author and genre using NLP technique
     highlight: WIP
 
   - title: Project 6
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
-
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/abhi-jeeva
 
   - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
+    url: https://github.com/Abhijeeva
 
 misc_entries:
   - title: this is an example vertical list
