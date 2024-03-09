@@ -41,10 +41,7 @@ theme_config:
     title_old_projects: Old Projects
 
 soopr:
-  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
-  <script async defer data-soopr-token='pt_58fbef6ea00e639ecddd829953e59914' src='https://sdk.soopr.co/soopr.js'></script>
-  <div class='soopr-btn'></div>
-
+  publish_token: "pt_58fbef6ea00e639ecddd829953e59914"
 
 highlighter: rouge
 
