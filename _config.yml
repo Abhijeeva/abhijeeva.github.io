@@ -1,8 +1,10 @@
-title: Abhi's Portfolio
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+title: Portfolio
+author: Abhi 
+url: https://abhijeeva.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Welcome to my portfolio showcasing a diverse range of projects and achievements across various domains. As an Electrical Engineering graduate student specializing in Applied Artificial Intelligence at the University of Ottawa, my focus lies in leveraging Python programming and Machine Learning techniques to solve real-world problems. Through a blend of theoretical knowledge and hands-on experience, I've developed expertise in areas such as Machine Learning, Computer Vision, Robotics, and Data Science. Explore my projects, ranging from author and genre text classification to machine learning-based diagnostic tools for Autism Spectrum Disorder, which demonstrate my analytical skills and innovative approach to problem-solving.
+  Hello I am Abhi. As an Electrical and Computer Engineering graduate student specializing in Applied Artificial Intelligence at uOttawa, my focus lies in leveraging Python programming and Machine Learning techniques to solve real-world problems. 
+  I've developed expertise in areas such as Machine Learning, Computer Vision, Robotics, and Data Science. 
+  Explore my projects focusing on ML and AI.
 
 permalink: /:slug
 
@@ -40,6 +42,9 @@ theme_config:
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
+  <script async defer data-soopr-token='pt_58fbef6ea00e639ecddd829953e59914' src='https://sdk.soopr.co/soopr.js'></script>
+  <div class='soopr-btn'></div>
+
 
 highlighter: rouge
 
